@@ -1,0 +1,13 @@
+names:
+- '0'
+- '1'
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: plate-detection04
+  url: https://universe.roboflow.com/project/plate-detection04/dataset/1
+  version: 1
+  workspace: project
+test: /Eduardo/Yolo/yolov8Car/test/images
+train: /Eduardo/Yolo/yolov8Car/train/images
+val: /Eduardo/Yolo/yolov8Car/valid/images
