@@ -8,6 +8,6 @@ roboflow:
   url: https://universe.roboflow.com/project/plate-detection04/dataset/1
   version: 1
   workspace: project
-test: /Eduardo/Yolo/yolov8Car/test/images
-train: /Eduardo/Yolo/yolov8Car/train/images
-val: /Eduardo/Yolo/yolov8Car/valid/images
+test: /yolov8Car/test/images
+train: /yolov8Car/train/images
+val: /yolov8Car/valid/images
